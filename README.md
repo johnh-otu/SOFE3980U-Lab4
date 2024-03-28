@@ -76,7 +76,7 @@
       ![sq4_15](figures/sq4_15.jpg)
    2. set the **Payload URL** to http://\<jenkinsIP\>:8080/github-webhook/ and the content type to JSON. Then, click **Add webhook**.
       ![sq4_16](figures/sq4_16.jpg)
-11. Once you commit any changes to the repository (you can change the readme file), the job will start building. 
+11. Once you commit any changes to the repository (you can change the readme file)(hi! doing that now), the job will start building.
    1. To check the status of each run or to build it the job manually, navigate to the job page within Jenkins.
       ![sq4_17](figures/sq4_17.jpg)
    2. Also, the commit in the GitHub will have a check mark and a link to the Jenkins build report.
